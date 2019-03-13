@@ -31,9 +31,23 @@ create files commands
 		'touch demo.txt'
 add	
 
-		in file explorer/ go view>options>view / show hidden folders && *show file etensions
+	 in file explorer/ go view>options>view / show hidden folders && *show file etensions
 
 intitialize git
 		'git init'
 explain git repository
+fill files
 		'git add demo.txt'
+		'git add test.txt'
+
+edit a file
+		'git add demo.txt'
+		
+
+		'git rm --cached *.txt'
+		'git add .'
+
+git commit
+edit with 'i' 
+		'<esc>:wq'
+you are commited to local repository	
